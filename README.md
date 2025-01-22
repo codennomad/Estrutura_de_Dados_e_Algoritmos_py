@@ -1,2 +1,2 @@
-# Estrutura_de_Dados_e_Algoritmos_py
+# Estrutura de Dados e Algoritmos Python
 Graphs, trees, linked lists, sorting, stacks, queues, deques and more!
